@@ -1,1 +1,1 @@
-This script turns text from picture
+This script recognizes text from a picture
